@@ -30,7 +30,7 @@ Event markers are streamed dynamically via **LSL** to synchronise behavioural pe
 
 ---
 
-## EEG Analysis
+## Possible EEG aspects
 
 Data collected with this paradigm can be processed using Event-Related Potentials (ERPs) and Time-Frequency Analysis to investigate:
 
