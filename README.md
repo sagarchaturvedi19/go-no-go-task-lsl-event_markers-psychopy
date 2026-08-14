@@ -1,6 +1,6 @@
 ## PsychoPy Numerical Go/No-Go Task with EEG LSL Marker Integration
 
-Hi Everyone. This PsychoPy experiment is designed to present numbers (1–10) in five randomised blocks and transmit real-time event markers via Lab Streaming Layer (LSL) to an EEG acquisition pipeline.
+Hi Everyone. This PsychoPy experiment is designed to present numbers (1–10) in five randomised blocks and transmit real-time event markers via Lab Streaming Layer (LSL) to an EEG acquisition pipeline. For those who prefer buttons over command-line scripts, a GUI version of the experiment is also included.
 
 
 ## Overview & Design
